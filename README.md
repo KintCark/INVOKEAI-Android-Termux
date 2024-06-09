@@ -1,3 +1,5 @@
+THIS WORKS ON 8GB RAM!!! DON'T DISABLE PHANTOM PROCESSOR KILLER DOING THIS WILL MAKE ALL STABLE DIFFUSION TERMUX CRASH!!!
+
 pkg updated && pkg upgrade -y && termux-setup-storage &&
 pkg install wget -y && pkg install git -y && pkg install proot -y &&
 cd ~ && git clone https://github.com/MFDGaming/ubuntu-in-termux.git && cd ubuntu-in-termux && chmod +x ubuntu.sh && ./ubuntu.sh -y && ./startubuntu.sh 
