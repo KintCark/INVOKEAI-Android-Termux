@@ -37,3 +37,13 @@ to save and exit then
 
 invokeai-web
 
+
+
+
+
+YOU NEED THIS TERMUX MOD VERSION THIS IS THE ONE I USED!
+
+
+https://github.com/KitsunedFox/termux-monet
+
+
