@@ -19,6 +19,14 @@ pip install pypatchmatch
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 pip install maturin
+
+After installation of all the above type logout then force close termux then reopen termux 
+
+cd ubuntu-in-termux && ./startubuntu.sh
+
+then do next instructions 
+
+
 AFTER INSTALLING ALL UBUNTU DEPENDENCIES DOWNLOAD THIS PY3 WHL FILE AND COPY IT TO YOUR TERMUX ROOT FOLDER THEN AFTER YOU COPY IT TO YOUR ROOT TERMUX FOLDER JUST RUN pip install InvokeAI-4.2.4-py3-none-any.whl
 
 
