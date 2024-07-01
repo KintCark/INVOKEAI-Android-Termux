@@ -43,6 +43,15 @@ COPY AND PASTE BOTH HOST
 Then Type ctrl+X+Y then enter 
 to save and exit then 
 
+cd invokeai
+
+'Fix' the issue with Python running in PRoot
+
+export ANDROID_DATA=anything 
+
+
+
+
 invokeai-web
 
 
