@@ -1,4 +1,4 @@
-THIS WORKS ON 8GB RAM!!! DON'T DISABLE PHANTOM PROCESSOR KILLER DOING THIS WILL MAKE ALL STABLE DIFFUSION TERMUX CRASH!!!
+THIS WORKS ON 8GB RAM!!! DISABLE PHANTOM PROCESS KILLLER OR U WON'T BE ABLE TO MAKE IMAGES OVER 320X320!!!!
 
 pkg updated && pkg upgrade -y && termux-setup-storage &&
 pkg install wget -y && pkg install git -y && pkg install proot -y &&
