@@ -52,6 +52,6 @@ export ANDROID_DATA=anything
 
 
 
-./invokeai.sh
+./invoke.sh
 
 
