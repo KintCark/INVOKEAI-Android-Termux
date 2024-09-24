@@ -37,6 +37,7 @@ apt-get install nano
 nano /etc/hosts
 
 COPY AND PASTE BOTH HOST
+
 127.0.0.1   localhost
 ::1         localhost
 
