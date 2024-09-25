@@ -18,13 +18,15 @@ pip install pypatchmatch
 
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
-source $HOME/.cargo/env
 
 pip install maturin
 
 After installation of all the above type logout then force close termux then reopen termux 
 
 cd ubuntu-in-termux && ./startubuntu.sh
+
+source $HOME/.cargo/env
+
 
 then do next instructions 
 
