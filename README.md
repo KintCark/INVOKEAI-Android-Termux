@@ -1,9 +1,6 @@
 THIS WORKS ON 8GB RAM!!!
 
-pkg updated && pkg upgrade -y && termux-setup-storage &&
-pkg install wget -y && pkg install git -y && pkg install proot -y &&
-cd ~ && git clone https://github.com/MFDGaming/ubuntu-in-termux.git && cd ubuntu-in-termux && chmod +x ubuntu.sh && ./ubuntu.sh -y && ./startubuntu.sh 
-
+pkg update -y && pkg install wget curl proot tar -y && wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu22/ubuntu22.sh -O ubuntu22.sh && chmod +x ubuntu22.sh && bash ubuntu22.sh
 
 apt update && apt upgrade -y && apt-get install curl git gcc make build-essential python3 python3-dev python3-distutils python3-pip python3-venv python-is-python3 -y &&
 apt install gcc musl-dev python3-dev -y
